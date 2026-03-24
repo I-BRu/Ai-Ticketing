@@ -2,7 +2,6 @@
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109%2B-green)](https://fastapi.tiangolo.com)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Deploy](https://img.shields.io/badge/Deploy-Render-3895EF)](https://aigenius-ticketing.onrender.com)
 [![LLM](https://img.shields.io/badge/LLM-Groq%20Llama%203.3-orange)](https://groq.com)
 
@@ -420,6 +419,5 @@ Track LLM performance, API latency, and system metrics with OTLP integration.
 
 ## 🔗 Links
 
-- **GitHub**: https://github.com/kuldeep27396/aigenius-ticketing
 - **Groq**: https://groq.com (Get free API key)
 - **Zilliz Cloud**: https://zilliz.com (Vector database)
