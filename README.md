@@ -28,7 +28,7 @@ An intelligent customer support automation platform with SLA monitoring, AI-powe
 
 **Modular Monolith** - Clean architecture with clear module boundaries.
 
-### High-Level Design (HLD)
+### Architecture
 
 ```mermaid
 graph TB
