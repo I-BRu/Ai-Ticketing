@@ -28,8 +28,6 @@ An intelligent customer support automation platform with SLA monitoring, AI-powe
 
 **Modular Monolith** - Clean architecture with clear module boundaries.
 
-### Architecture
-
 ```mermaid
 graph TB
     subgraph "Client Layer"
@@ -419,10 +417,6 @@ Track LLM performance, API latency, and system metrics with OTLP integration.
 - **Vector Store**: Milvus with semantic search
 - **Embeddings**: 768 dimensions (Groq-compatible)
 - **Top-K**: 5 documents retrieved
-
-## 📄 License
-
-MIT License - see LICENSE file for details.
 
 ## 🔗 Links
 
